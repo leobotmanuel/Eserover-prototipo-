@@ -1,2 +1,2 @@
-# Eserover-prototipo-
+# Eserover (prototipo)
 Prototipado del robot Eserover
